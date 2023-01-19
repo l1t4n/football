@@ -1,0 +1,6 @@
+:root {
+    --bg-color-black: rgb(19, 19, 19);
+    --bg-color-secondary: linear-gradient( rgb(0, 180, 120), rgb(0, 147, 192));
+    --text-color-main: white;
+    --text-color-secondary: black;
+}
